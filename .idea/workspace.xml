@@ -7,6 +7,7 @@
     <list default="true" id="4cc22bf9-36b2-4d92-a777-ab3e5bd85658" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SRC/logica/conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/SRC/logica/conjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.conjunto.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
